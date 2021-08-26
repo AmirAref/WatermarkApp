@@ -2,9 +2,7 @@
 A console program to set the watermark on images and merge them
 
 
-
 https://user-images.githubusercontent.com/81515807/130963412-1cd31375-ffda-418e-ad76-580d353adafe.mp4
-
 
 
 ## how it works ?
@@ -34,3 +32,8 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+
+Author : Amir Aref
+Telegram : [Amir_720](https://t.me/Amir_720)
+Github : [AmirAref](https://github.com/AmirAref)
