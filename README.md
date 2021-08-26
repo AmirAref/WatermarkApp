@@ -3,16 +3,16 @@ A console program to set the watermark on images and merge them
 
 https://user-images.githubusercontent.com/81515807/130961202-302419a5-743a-47a5-960a-641ad906b570.mp4
 
-
+## how it works ?
 This program has two parts that you can remove or add as needed
 To run, you need to move the file to the folder where your photos are located
 The program takes the extension of the photos from you so that it can find them
 It also asks you for the watermark image address
 
-# Part One:
+### Part One:
 The program selects all the files in the desired folder with the format you entered and merges them in pairs. 2 to 1
 
-# Part II:
+### Part Two:
 It then transfers the new image to the add watermark function
 In this section, the program asks you to enter the watermark transparency as well as its ratio to the original image numerically between 0 and 1.
 It then saves the newly created images on which the watermark is installed in the Out folder and you can use it.
