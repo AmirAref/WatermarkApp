@@ -1,7 +1,11 @@
 # WatermarkApp
 A console program to set the watermark on images and merge them
 
-https://user-images.githubusercontent.com/81515807/130961202-302419a5-743a-47a5-960a-641ad906b570.mp4
+
+
+https://user-images.githubusercontent.com/81515807/130963412-1cd31375-ffda-418e-ad76-580d353adafe.mp4
+
+
 
 ## how it works ?
 This program has two parts that you can remove or add as needed
@@ -21,12 +25,12 @@ Personalize for yourself if needed
 
 
 
-# Install Requirement :
+## Install Requirement :
 ```
 pip install -r requirements.txt
 ```
 
-# Run :
+## Run :
 ```
 python main.py
 ```
